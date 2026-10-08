@@ -79,7 +79,7 @@ BEHAVIOR RULES:
 """
 
 # Models (Gemini's current multimodal + native image-generation models)
-TEXT_MODEL = "gemini-2.0-flash"
+TEXT_MODEL = "gemini-3.8-flash"
 IMAGE_GEN_MODEL = "imagen-3.0-generate-002"  # "Nano Banana" — native image generation/editing
 
 # Keywords used as a fallback trigger for image-generation intent
